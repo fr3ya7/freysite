@@ -53,6 +53,7 @@ body {
  .imageoutline {
     border: 1px black;
     box-shadow: 0 12px 16px 0 rgba(255, 0, 0, 0.452), 0 17px 50px 0 rgba(255, 0, 0, 0.452);
+    border-radius: 20px;
  }
 
  table, th, td {
